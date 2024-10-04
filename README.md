@@ -665,8 +665,8 @@ As opposed to the approach with the `docker-maven-plugin`, Test
 Containers will detect and cleanup the containers, docker network, and
 other docker resources we allocated for the test.
 
-If that automatic cleanup fails for any reason, or you don’t want to
-wait for it to kick in, then here’s what you are left with:
+However, if that automatic cleanup fails for any reason, or you don’t
+want to wait for it to kick in, then here’s what you are left with:
 
 - All of the containers successfully started by Test Containers continue
   to run (this includes the `testcontainers-ryuk-` special container
