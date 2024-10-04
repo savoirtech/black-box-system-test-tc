@@ -185,7 +185,7 @@ To view the code, please see the TL;DR section above for a quick overview,
 or view the full code itself under the project folder.
 Here are links to the full code of the Main module:
 
-* link:https://github.com/savoirtech/black-box-system-test-tc/blob/main/project/pom.xml[pom.xml]
+* link:https://github.com/savoirtech/black-box-system-test-tc/blob/main/project/main/pom.xml[pom.xml]
 * link:https://github.com/savoirtech/black-box-system-test-tc/blob/main/project/main/src/main/java/com/savoirtech/blog/systest/ProjectMain.java[ProjectMain.java]
 * link:https://github.com/savoirtech/black-box-system-test-tc/blob/main/project/main/src/main/java/com/savoirtech/blog/systest/rest/ProjectRestResource.java[ProjectRestResource.java]
 * link:https://github.com/savoirtech/black-box-system-test-tc/blob/main/project/main/src/main/java/com/savoirtech/blog/systest/rest/JerseyWiring.java[JerseyWiring.java]
@@ -226,7 +226,7 @@ Here are the key parts for the System Tests:
 
 Please see the TL;DR section above for a quick overview of the code,
 or view the full code itself under the project folder.
-Here are links to the full code of the Main module:
+Here are links to the full code of the Docker IT module:
 
 * link:https://github.com/savoirtech/black-box-system-test-tc/blob/main/project/docker-it/pom.xml[pom.xml]
 * link:https://github.com/savoirtech/black-box-system-test-tc/blob/main/project/docker-it/src/test/java/com/savoirtech/blog/systest/it/TestContainerRunnerClassRule.java[TestContainerRunnerClassRule.java]

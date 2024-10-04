@@ -353,7 +353,7 @@ To view the code, please see the TL;DR section above for a quick
 overview, or view the full code itself under the project folder. Here
 are links to the full code of the Main module:
 
-- [pom.xml](https://github.com/savoirtech/black-box-system-test-tc/blob/main/project/pom.xml)
+- [pom.xml](https://github.com/savoirtech/black-box-system-test-tc/blob/main/project/main/pom.xml)
 
 - [ProjectMain.java](https://github.com/savoirtech/black-box-system-test-tc/blob/main/project/main/src/main/java/com/savoirtech/blog/systest/ProjectMain.java)
 
@@ -410,7 +410,7 @@ Here are the key parts for the System Tests:
 
 Please see the TL;DR section above for a quick overview of the code, or
 view the full code itself under the project folder. Here are links to
-the full code of the Main module:
+the full code of the Docker IT module:
 
 - [pom.xml](https://github.com/savoirtech/black-box-system-test-tc/blob/main/project/docker-it/pom.xml)
 
