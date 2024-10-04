@@ -412,11 +412,11 @@ Please see the TL;DR section above for a quick overview of the code, or
 view the full code itself under the project folder. Here are links to
 the full code of the Main module:
 
-- [pom.xml](https://github.com/savoirtech/black-box-system-test-dmp/blob/main/project/docker-it/pom.xml)
+- [pom.xml](https://github.com/savoirtech/black-box-system-test-tc/blob/main/project/docker-it/pom.xml)
 
 - [TestContainerRunnerClassRule.java](https://github.com/savoirtech/black-box-system-test-tc/blob/main/project/docker-it/src/test/java/com/savoirtech/blog/systest/it/TestContainerRunnerClassRule.java)
 
-- [HelloIT.java](https://github.com/savoirtech/black-box-system-test-dmp/blob/main/project/docker-it/src/test/java/com/savoirtech/blog/systest/it/HelloIT.java)
+- [HelloIT.java](https://github.com/savoirtech/black-box-system-test-tc/blob/main/project/docker-it/src/test/java/com/savoirtech/blog/systest/it/HelloIT.java)
 
 ### Creation of a Test Container for the Application
 
